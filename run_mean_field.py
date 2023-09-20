@@ -163,6 +163,8 @@ if __name__ == "__main__":
         "init_identity": True
     }
 
+    # T is the max number of clusters in the
+    # Dirichlet process mixture.
     train_param = {
         "steps": 3000,
         "lr": 5e-4,
