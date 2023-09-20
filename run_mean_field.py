@@ -150,6 +150,8 @@ if __name__ == "__main__":
         "num_particles": 2 ** 4
     }
 
+    # num_trans is the number of transformation in the
+    # normalising flow
     flow_params = {
         "num_trans": 5,
         "num_blocks": 1,
