@@ -12,6 +12,9 @@ pyro
 matplotlib
 tqdm
 ```
+
+Installation is not required - all modules are imported locally here.
+
 ## Usage
 
 Look in the notebook `tutorial.ipynb` for usage instructions. See `CircularAutoregressiveRationalQuadraticSpline` in https://vincentstimper.github.io/normalizing-flows/references/#normflows.flows for more details about the normalising flow hyperparameters.
