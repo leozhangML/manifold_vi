@@ -21,4 +21,4 @@ Look in the notebook `tutorial.ipynb` for usage instructions. See `CircularAutor
 
 ## Acknowledgements
 
-This project was supervised by Paul Rosa and Judith Rousseau during my MSc in Statistical Science (2023).
+This project was supervised by Paul Rosa and Judith Rousseau during my MSc in Statistical Science (2023). The code for implementing circular spline normalising flows was adapted from https://github.com/VincentStimper/normalizing-flows.
