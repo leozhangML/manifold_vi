@@ -1,4 +1,4 @@
-# manfold_vi
+# manifold_vi
 Implementation of a variational inference approximation to the Bayesian nonparametric model in https://arxiv.org/abs/2205.15717 for learning the density of data supported about a manifold.
 
 ## Prerequisites
